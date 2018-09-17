@@ -1,10 +1,3 @@
-#set the value of the vector
-#get the value of the vector
-#set the value of the mean
-@get the value of the mean
-
-
-
 makeCacheMatrix <- function( m = matrix() ) {
 
 	## Initialize the inverse property
