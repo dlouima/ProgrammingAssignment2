@@ -1,7 +1,8 @@
-## Our aim in this experiment is to write a pair of functions, namely, 
-## functions do	## "makeCacheMatrix" and "cacheSolve" that cache the inverse of a matrix
- ## Write a short comment describing this function	## makeCacheMatrix is a function which creates a special "matrix" object that can 
-## cache its inverse for the input (which is an invertible square matrix)
+#set the value of the vector
+#get the value of the vector
+#set the value of the mean
+@get the value of the mean
+
 
 
 makeCacheMatrix <- function( m = matrix() ) {
